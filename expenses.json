@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2,
+    "date": "2024-11-17",
+    "description": "Groceries",
+    "category": "Food",
+    "amount": 50
+  },
+  {
+    "id": 3,
+    "date": "2024-11-17",
+    "description": "Groceries",
+    "category": "Food",
+    "amount": 50
+  },
+  {
+    "id": 4,
+    "date": "2024-11-17",
+    "description": "Rent",
+    "category": "Housing",
+    "amount": 500
+  },
+  {
+    "id": 5,
+    "date": "2024-11-17",
+    "description": "Electricity Bill",
+    "category": "Utilities",
+    "amount": 100
+  },
+  {
+    "id": 6,
+    "date": "2024-11-17",
+    "description": "Dinner",
+    "category": "Food",
+    "amount": 30
+  }
+]
